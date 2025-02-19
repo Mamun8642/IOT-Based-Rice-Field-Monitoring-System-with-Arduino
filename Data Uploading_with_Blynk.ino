@@ -12,7 +12,7 @@ DHT dht(26, DHT22);
 
 char auth[] = "tNjHavWxLJ_dMv1LUyKkzBv5NgzeHQYN";
 char ssid[] = "K@H";
-char pass[] = "017184441491";
+char pass[] = "*******";
 
 BlynkTimer timer;
 
